@@ -1,4 +1,4 @@
-package DesignPatterns;
+package designpatterns;
 
 interface Shape {
     void draw();
